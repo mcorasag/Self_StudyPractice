@@ -1,8 +1,10 @@
 package core;
 
-public class Antalya {
+public class Antalya extends Holiday {
     //........
     //.......
+    //isterim
+
 
     //???
 }
