@@ -3,8 +3,6 @@ package core;
 public class Corum {
 
     // .........
-    //
-    //Derya
-
-    //derya2
+    //melike
+    //Derya.
 }
