@@ -4,5 +4,5 @@ public class Corum {
 
     // .........
     //melike
-    //Derya
+    //Derya.
 }
