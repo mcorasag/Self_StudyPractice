@@ -1,6 +1,6 @@
 package core;
 
-public class Bursa {
+public class Bursa extends Holiday {
 
     // i love Bursa
 }
